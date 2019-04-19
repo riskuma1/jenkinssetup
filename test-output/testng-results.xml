@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sample test Suite" duration-ms="129" started-at="2019-04-18T12:26:34Z" finished-at="2019-04-18T12:26:34Z">
+    <groups>
+    </groups>
+    <test name="Sample test" duration-ms="129" started-at="2019-04-18T12:26:34Z" finished-at="2019-04-18T12:26:34Z">
+      <class name="maven.MavenDemoTest.DemoTest">
+        <test-method status="PASS" signature="Div()[pri:0, instance:maven.MavenDemoTest.DemoTest@6767c1fc]" name="Div" duration-ms="15" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method status="PASS" signature="Mul()[pri:0, instance:maven.MavenDemoTest.DemoTest@6767c1fc]" name="Mul" duration-ms="8" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mul -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:maven.MavenDemoTest.DemoTest@6767c1fc]" name="Sub" duration-ms="0" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:maven.MavenDemoTest.DemoTest@6767c1fc]" name="Sum" duration-ms="0" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+      </class> <!-- maven.MavenDemoTest.DemoTest -->
+      <class name="maven.MavenDemoTest.DemoTest2">
+        <test-method status="PASS" signature="Mul()[pri:0, instance:maven.MavenDemoTest.DemoTest2@4678c730]" name="Mul" duration-ms="0" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mul -->
+        <test-method status="PASS" signature="Div()[pri:0, instance:maven.MavenDemoTest.DemoTest2@4678c730]" name="Div" duration-ms="0" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:maven.MavenDemoTest.DemoTest2@4678c730]" name="Sub" duration-ms="15" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:maven.MavenDemoTest.DemoTest2@4678c730]" name="Sum" duration-ms="0" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+      </class> <!-- maven.MavenDemoTest.DemoTest2 -->
+      <class name="maven.MavenDemoTest.DemoTest1">
+        <test-method status="PASS" signature="Div()[pri:0, instance:maven.MavenDemoTest.DemoTest1@548a9f61]" name="Div" duration-ms="2" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:maven.MavenDemoTest.DemoTest1@548a9f61]" name="Sum" duration-ms="16" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+        <test-method status="PASS" signature="Mul()[pri:0, instance:maven.MavenDemoTest.DemoTest1@548a9f61]" name="Mul" duration-ms="0" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mul -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:maven.MavenDemoTest.DemoTest1@548a9f61]" name="Sub" duration-ms="0" started-at="2019-04-18T17:56:34Z" finished-at="2019-04-18T17:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+      </class> <!-- maven.MavenDemoTest.DemoTest1 -->
+    </test> <!-- Sample test -->
+  </suite> <!-- Sample test Suite -->
+</testng-results>
